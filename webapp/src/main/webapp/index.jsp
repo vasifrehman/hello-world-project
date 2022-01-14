@@ -14,7 +14,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> this is your friend here  </h1>
 <h1 style="color:blue;"> ******************** </h1>
 =======
-<h1 style="color:blue;"> This is your friend here..  </h1>
+<h1 style="color:blue;"> ..This is your friend here..  </h1>
 >>>>>>> a0a29386a4dadd94cdd9b44b2e83448e1874bec4
 </body>
 </html>
